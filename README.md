@@ -1,13 +1,33 @@
 <h1 align="center">Hi 👋, I'm Sehran Rasool Jan</h1>
 <h3 align="center">A Passionate Developer From Kashmir India.</h3>
 
+<h2>About this Project</h2>
+<p>This Project is a AWS Serverless Web Application</p>
+<p>Serverless computing allows you to build and run applications and services without thinking about servers. With serverless computing, your application still runs on servers, but all the server management is done by AWS. Using AWS and its Serverless Platform, you can build and deploy applications on cost-effective services that provide built-in application availability and flexible scaling capabilities. This lets you focus on your application code instead of worrying about provisioning, configuring, and managing servers.</p>
+
+<h4>Why build a serverless application?</h4>
+<p> Building a serverless application allows you to focus on your application code instead of managing and operating infrastructure. You do not have to think about provisioning or configuring servers since AWS handles all of this for you. This reduces your infrastructure management burden and helps you get faster time-to-market.<p>
+
+<h4> Building a serverless application offers you four main benefits:</h4>
+
+<p>-No server management </p>
+
+<p>-Flexible scaling </p>
+
+<p>-High availability </p>
+
+<p>-Pay As per use </p>
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehranrasooljan&label=Profile%20views&color=0e75b6&style=flat" alt="sehranrasooljan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehranrasooljan" alt="sehranrasooljan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently working on **AWS Serverless Web Application**
 
 - 👨‍💻 All of my projects are available at [www.github.com/sehranrasooljan](www.github.com/sehranrasooljan)
 
